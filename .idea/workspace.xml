@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="500c486e-9ba9-4890-ba6a-e2e602f7d12f" name="Changes" comment="Added a Main.py to the project" />
-
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,12 +31,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -58,8 +55,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718324472490</updated>
+      <workItem from="1718324476125" duration="3811000" />
 
-      <workItem from="1718324476125" duration="2924000" />
     </task>
     <task id="LOCAL-00001" summary="Added a Main.py to the project">
       <option name="closed" value="true" />
@@ -70,7 +67,6 @@
       <updated>1718324857248</updated>
     </task>
     <option name="localTasksCounter" value="2" />
-
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
